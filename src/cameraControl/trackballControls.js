@@ -38,8 +38,8 @@ export default function example() {
 
 	// Controls
 	const controls = new TrackballControls(camera, renderer.domElement);
-	controls.maxDistance = 20;
-	controls.minDistance = 5;
+	// controls.maxDistance = 20;
+	// controls.minDistance = 5;
 	// controls.target.set(3, 3, 3);
 
 
