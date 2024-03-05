@@ -39,8 +39,8 @@ export default function example() {
   // Controls
   const controls = new FirstPersonControls(camera, renderer.domElement);
   // controls.movementSpeed = 10;
-  controls.activeLook = false;
-  controls.lookSpeed = 0.1;
+  // controls.activeLook = false;
+  // controls.lookSpeed = 0.1;
   // controls.autoForward = true;
 
   // Mesh

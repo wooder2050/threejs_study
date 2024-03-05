@@ -1,6 +1,6 @@
 // import example from "./sample";
 
-import example from "./meshControl/position";
+// import example from "./meshControl/position";
 // import example from "./meshControl/scale";
 // import example from "./meshControl/rotation";
 // import example from "./meshControl/group";
@@ -32,7 +32,7 @@ import example from "./meshControl/position";
 // import example from "./material/environmentMap";
 // import example from "./material/skybox";
 // import example from "./material/skyboxWithEnvMap";
-// import example from "./material/canvasTexture";
+// import example from "./material/canvasTexture"; 
 
 // import example from "./model_animation/loadGLB";
 // import example from "./model_animation/glbAnimation";
@@ -51,6 +51,6 @@ import example from "./meshControl/position";
 // import example from "./particle/imageParticle";
 // import example from "./particle/colorParticle";
 // import example from "./particle/pointerParticle";
-// import example from "./particle/changeParticle";
+import example from "./particle/changeParticle";
 
 example();

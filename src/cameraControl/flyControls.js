@@ -38,7 +38,7 @@ export default function example() {
 
 	// Controls
 	const controls = new FlyControls(camera, renderer.domElement);
-	controls.rollSpeed = 0.1;
+	// controls.rollSpeed = 0.1;
 	// controls.movementSpeed = 3;
 	// controls.dragToLook = true;
 
