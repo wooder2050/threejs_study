@@ -36,9 +36,9 @@ export default function example() {
   );
   const camera2 = camera.clone();
 
-  camera.position.x = -4;
-  camera.position.y = 19;
-  camera.position.z = 14;
+  camera.position.x = -20;
+  camera.position.y = 20;
+  camera.position.z = 10;
 
   camera2.position.y = 0;
   camera2.lookAt(0, 1, 0);
@@ -386,3 +386,4 @@ export default function example() {
 
   draw();
 }
+example();

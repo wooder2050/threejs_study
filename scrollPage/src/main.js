@@ -59,7 +59,7 @@ export default function example() {
     new House({
       gltfLoader,
       scene,
-      modelSrc: "../models/house.glb",
+      modelSrc: "./models/house.glb",
       x: -5,
       z: 20,
       height: 2,
@@ -69,7 +69,7 @@ export default function example() {
     new House({
       gltfLoader,
       scene,
-      modelSrc: "../models/house.glb",
+      modelSrc: "./models/house.glb",
       x: 7,
       z: 10,
       height: 2,
@@ -79,7 +79,7 @@ export default function example() {
     new House({
       gltfLoader,
       scene,
-      modelSrc: "../models/house.glb",
+      modelSrc: "./models/house.glb",
       x: -10,
       z: 0,
       height: 2,
@@ -89,7 +89,7 @@ export default function example() {
     new House({
       gltfLoader,
       scene,
-      modelSrc: "../models/house.glb",
+      modelSrc: "./models/house.glb",
       x: 10,
       z: -10,
       height: 2,
@@ -99,7 +99,7 @@ export default function example() {
     new House({
       gltfLoader,
       scene,
-      modelSrc: "../models/house.glb",
+      modelSrc: "./models/house.glb",
       x: -5,
       z: -20,
       height: 2,
@@ -145,3 +145,4 @@ export default function example() {
 
   draw();
 }
+example();

@@ -37,7 +37,6 @@
 // import example from "./model_animation/loadGLB";
 // import example from "./model_animation/glbAnimation";
 // import example from "./model_animation/dancer_glb";
-import example from "./model_animation/characterController";
 
 // import example from "./physics/physicsDefault";
 // import example from "./physics/contactMaterial";
@@ -52,10 +51,6 @@ import example from "./model_animation/characterController";
 // import example from "./particle/imageParticle";
 // import example from "./particle/colorParticle";
 // import example from "./particle/pointerParticle";
-// import example from "./particle/changeParticle";
-
-// import example from "./scrollPage/scrollExample";
-
-// import example from "./bridge/main";
+import example from "./particle/changeParticle";
 
 example();

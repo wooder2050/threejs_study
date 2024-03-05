@@ -216,3 +216,5 @@ export default function example() {
     window.addEventListener("pointerdown", handlePointerDown);
   }
 }
+
+example();
